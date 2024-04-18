@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		  <!--
+		  Name: Lee Griffin
+		  Section:
+		  -->
+		<title>Hazbin Hotel Homepage</title>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width">
+		<link href="styles.css" rel="stylesheet" />
+	</head>
+	<body>
+		<div>
+			<header>
+			</header>
+			<aside>
+				<ul>
+					<li><a href="index.html">Hazbin Hotel: A Show About Hell, Demons and… Songs?</a></li>
+					<li><a href="cast.html">Getting to Know Hell’s Demons</a></li>
+					<li><a href="songs.html">Music from Hell</a></li>
+					<li><a href="controversy.html">No Surprise, People Are Upset</a></li>
+				</ul>
+			</aside>
+			<article
+			class=mainArticle">
+			</article>
+			<footer></footer>
+		</div>
+	</body>
+</html>
